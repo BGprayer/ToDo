@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "待办事项"; ObjectID = "5u8-Aq-THa"; */
+"5u8-Aq-THa.title" = "待办事项";
+
+/* Class = "UILabel"; text = "待办事项"; ObjectID = "8B8-jQ-c2v"; */
+"8B8-jQ-c2v.text" = "待办事项";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Koh-Vo-jXM"; */
+"Koh-Vo-jXM.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RW1-eH-VQm"; */
+"RW1-eH-VQm.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "新增待办事项"; ObjectID = "vQI-Uf-Pfb"; */
+"vQI-Uf-Pfb.title" = "新增待办事项";
